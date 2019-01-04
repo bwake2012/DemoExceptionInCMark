@@ -34,6 +34,7 @@
 		B80277096515B08630F8CBE6 /* Pods-DemoExceptionInCMark.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DemoExceptionInCMark.debug.xcconfig"; path = "Pods/Target Support Files/Pods-DemoExceptionInCMark/Pods-DemoExceptionInCMark.debug.xcconfig"; sourceTree = "<group>"; };
 		B9F1382581F1F0308529BE84 /* Pods_DemoExceptionInCMarkTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_DemoExceptionInCMarkTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C412B12421DFD4880076834E /* FlanneryO'ConnorBio.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "FlanneryO'ConnorBio.md"; sourceTree = "<group>"; };
+		C412B12621DFE05C0076834E /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		C48DA34021DFB99F00401987 /* DemoExceptionInCMark.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DemoExceptionInCMark.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C48DA34321DFB99F00401987 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C48DA34521DFB99F00401987 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -80,6 +81,7 @@
 		C48DA33721DFB99F00401987 = {
 			isa = PBXGroup;
 			children = (
+				C412B12621DFE05C0076834E /* README.md */,
 				C48DA34221DFB99F00401987 /* DemoExceptionInCMark */,
 				C48DA35721DFB9A100401987 /* DemoExceptionInCMarkTests */,
 				C48DA34121DFB99F00401987 /* Products */,
