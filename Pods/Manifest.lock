@@ -1,0 +1,16 @@
+PODS:
+  - Down (0.6.2)
+
+DEPENDENCIES:
+  - Down
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Down
+
+SPEC CHECKSUMS:
+  Down: 8c59a03cb229ef28dfa774b2132da860f3dee0ac
+
+PODFILE CHECKSUM: 92f98e7de8d1336ca0dba2c4e3c237d52c5e75e6
+
+COCOAPODS: 1.5.3

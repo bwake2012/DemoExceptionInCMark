@@ -1,0 +1,6 @@
+framework module Pods_DemoExceptionInCMark {
+  umbrella header "Pods-DemoExceptionInCMark-umbrella.h"
+
+  export *
+  module * { export * }
+}
